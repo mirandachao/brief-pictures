@@ -54,6 +54,10 @@
 	flex-direction: column;
 }
 
+.adjust {
+    margin-top: 0%;
+}
+
 /* INDIVIDUAL CSS  */
 #blob {
 	width: 30%;
