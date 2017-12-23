@@ -1,0 +1,124 @@
+.rooms {
+	display: block;
+	width: 100%;
+	margin: auto;
+}
+
+.background {
+	display: block;
+	width: 100%;
+	margin: auto;
+}
+
+.gifs {
+	position: relative;
+	top: 0;
+	bottom: 0;
+	width: 100%;
+	height: 75%;
+	display: flex;
+	justify-content: space-between;
+}
+
+.leftfloorgif {
+	height: 40%;
+	width: 40%;
+	margin-left: 5%;
+	margin-top: 8%;
+}
+
+.rightfloorgif {
+	height: 40%;
+	width: 40%;
+	margin-right: 5%;
+	margin-top: 8%;
+}
+
+.leftfloatgif {
+	height: 32%;
+	width: 32%;
+	margin-left: 8%;
+}
+
+.rightfloatgif {
+	height: 32%;
+	width: 32%;
+	margin-right: 8%;
+}
+
+.maincontainer {
+	position: absolute;
+	top: 0;
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+}
+
+/* INDIVIDUAL CSS  */
+#blob {
+	width: 30%;
+	margin-right: 10%;
+	margin-top: 12%;
+}
+
+#seifuku {
+	height: 35%;
+	width: 35%;
+	margin-left: 8%;
+	margin-top: 24%;
+}
+
+#ghost {
+	margin-top: 10%;
+}
+
+#lightbulb {
+    margin-top: -3%;
+}
+
+#older-younger {
+    margin-top: -11%;
+    margin-right: 10%;
+    width:30%;
+    height: 30%;
+}
+
+#pills {
+    margin-top: 23%;
+}
+
+#egg {
+    margin-top: 5%;
+}
+
+#dali {
+    width: 30%;
+    margin-right: 10%;
+}
+
+#kitty {
+    width: 30%;
+    margin-left: 10%;
+    margin-top: 10%;
+}
+
+#pumpkin {
+    width: 33%;
+    margin-top: 10%;
+    margin-right: 9%;
+}
+
+#curtains {
+    margin-top: 10%;
+    margin-left: 4%;
+}
+
+#ah {
+    margin-top: 10%;
+    width: 37%;
+    margin-right: 5%;
+}
+
+#static {
+    margin-top: 15%;
+}
